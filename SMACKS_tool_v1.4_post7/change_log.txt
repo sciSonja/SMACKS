@@ -1,0 +1,24 @@
+
+Changes in SMACKS v1.4 :
+
+- SMACKS runs again under Igor Pro v7 & v8. 
+  For details, check the manual -> Installation -> IMPORTANT UPDATE
+- added calculation of confidence intervals.
+- updated manual v1.4.
+- improved computation speed.
+- corrected start parameters for 6 states.
+- added functionalities to the SMACKS menu -> ‘AddOns’.
+
+
+
+Changes in SMACKS v1.3 :
+
+- bugfix concerning free choice of trace names.
+
+
+
+Changes in SMACKS v1.2 :
+
+- updated manual.
+- improved display of long paths & BIC values.
+- improved response to path mismatch.
